@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\bin\Debug\Rechenoperatoren.exe.config
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\bin\Debug\Rechenoperatoren.exe
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\bin\Debug\Rechenoperatoren.pdb
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.csprojAssemblyReference.cache
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.Form1.resources
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.Properties.Resources.resources
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.csproj.GenerateResource.cache
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.exe
+C:\Users\b\source\repos\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.pdb
